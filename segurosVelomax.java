@@ -12,6 +12,7 @@ public class segurosVelomax {
         int cilindraje;
         String dia, mes,dia1, mesF;
         int tamanio=0;
+        //hola
         //entradas  
         String tipoVehiculo= teclado.nextLine().toUpperCase();
         Long avaluoVehiculo= teclado.nextLong();
